@@ -1,0 +1,14 @@
+<h1>Log In page</h1>
+
+<p>{{message}}</p>
+<p>{{error}}</p>
+
+<form method="post" action="/api/sessions/login">
+    <input type="email" name="email" placeholder="Email Address:">
+    <br/>
+    <input type="password" name="password" placeholder="Password:">
+    <br/>
+    <button>Login</button>
+</form>
+
+<section>Dont't have an account? <a href="/signup"> Sign Up here! </a></section>

@@ -1,0 +1,53 @@
+[
+    {
+        "products": [
+            {
+                "quantity": 1,
+                "id": 1
+            },
+            {
+                "quantity": 1,
+                "id": 2
+            },
+            {
+                "quantity": 1,
+                "id": 3
+            }
+        ],
+        "idCart": 1
+    },
+    {
+        "products": [
+            {
+                "quantity": 1,
+                "id": 1
+            },
+            {
+                "quantity": 1,
+                "id": 2
+            },
+            {
+                "quantity": 1,
+                "id": 3
+            }
+        ],
+        "idCart": 2
+    },
+    {
+        "products": [
+            {
+                "quantity": 1,
+                "id": 1
+            },
+            {
+                "quantity": 1,
+                "id": 2
+            },
+            {
+                "quantity": 1,
+                "id": 3
+            }
+        ],
+        "idCart": 3
+    }
+]

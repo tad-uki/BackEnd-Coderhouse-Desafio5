@@ -1,0 +1,30 @@
+<h1>Product Listing</h1>
+
+<p>{{error}}</p>
+
+<h2>Welcome, {{userData.name}}</h2>
+<p>Email: {{userData.email}}</p>
+<p>Role: {{userData.role}}</p>
+<br/>
+
+<a href="/api/sessions/logout">Logout from session</a>
+
+<br/>
+<br/>
+
+{{#each products}}
+
+<form class="productForm"></form>
+    <p>{{this.title}}</p>
+    <p>Price: {{this.price}}</p>
+    <button value={{this.id}} class="productBtn">Add to Cart</button>
+    <hr>
+</form>
+<br/>
+
+
+{{/each}}
+
+
+<script src="socket.io/socket.io.js"></script>
+<script src="js/home.js"></script>

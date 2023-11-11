@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Product A",
+        "description": "Test Product",
+        "price": 1,
+        "thumbnail": "No image",
+        "code": "abc1",
+        "stock": 1,
+        "category": "some",
+        "status": true,
+        "id": 1
+    },
+    {
+        "title": "Product B",
+        "description": "Test Product",
+        "price": 1,
+        "thumbnail": "No image",
+        "code": "abc2",
+        "stock": 1,
+        "category": "some",
+        "status": true,
+        "id": 2
+    },
+    {
+        "title": "Product C",
+        "description": "Test Product",
+        "price": 1,
+        "thumbnail": "No image",
+        "code": "abc3",
+        "stock": 1,
+        "category": "some",
+        "status": true,
+        "id": 3
+    },
+    {
+        "title": "Product D",
+        "description": "Test Product",
+        "price": 1,
+        "thumbnail": "No image",
+        "code": "abc4",
+        "stock": 1,
+        "category": "some",
+        "status": true,
+        "id": 4
+    },
+    {
+        "title": "Product E",
+        "description": "Test Product",
+        "price": 1,
+        "thumbnail": "No image",
+        "code": "abc5",
+        "stock": 1,
+        "category": "some",
+        "status": true,
+        "id": 5
+    }
+]
